@@ -27,3 +27,12 @@ C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\u
 C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\obj\Debug\uniupdate.csproj.CoreCompileInputs.cache
 C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\obj\Debug\uniupdate.exe
 C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\obj\Debug\uniupdate.pdb
+C:\Projects\PP\regliment_facile\uniupdate\bin\Debug\uniupdate.exe.config
+C:\Projects\PP\regliment_facile\uniupdate\bin\Debug\uniupdate.exe
+C:\Projects\PP\regliment_facile\uniupdate\bin\Debug\uniupdate.pdb
+C:\Projects\PP\regliment_facile\uniupdate\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projects\PP\regliment_facile\uniupdate\obj\Debug\uniupdate.csprojAssemblyReference.cache
+C:\Projects\PP\regliment_facile\uniupdate\obj\Debug\uniupdate.csproj.CoreCompileInputs.cache
+C:\Projects\PP\regliment_facile\uniupdate\obj\Debug\uniupdate.csproj.CopyComplete
+C:\Projects\PP\regliment_facile\uniupdate\obj\Debug\uniupdate.exe
+C:\Projects\PP\regliment_facile\uniupdate\obj\Debug\uniupdate.pdb

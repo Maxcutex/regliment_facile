@@ -15,121 +15,124 @@ namespace uniupdate
     {
         static void Main(string[] args)
         {
-            
-            Task task1 = Task.Factory.StartNew(() => PullTransactions(1));
-            Task task2 = Task.Factory.StartNew(() => PullTransactions(2));
-            Task task3 = Task.Factory.StartNew(() => PullTransactions(3));
-            Task task4 = Task.Factory.StartNew(() => PullTransactions(4));
-            Task task5 = Task.Factory.StartNew(() => PullTransactions(5));
-            Task task6 = Task.Factory.StartNew(() => PullTransactions(6));
-            Task task7 = Task.Factory.StartNew(() => PullTransactions(7));
-            Task task8 = Task.Factory.StartNew(() => PullTransactions(8));
-            Task task9 = Task.Factory.StartNew(() => PullTransactions(9));
-            Task task10 = Task.Factory.StartNew(() => PullTransactions(10));
-            Task task11 = Task.Factory.StartNew(() => PullTransactions(11));
-            Task task12 = Task.Factory.StartNew(() => PullTransactions(12));
-            Task task13 = Task.Factory.StartNew(() => PullTransactions(13));
-            Task task14 = Task.Factory.StartNew(() => PullTransactions(14));
-            Task task15 = Task.Factory.StartNew(() => PullTransactions(15));
-            Task task16 = Task.Factory.StartNew(() => PullTransactions(16));
-            Task task17 = Task.Factory.StartNew(() => PullTransactions(17));
-            Task task18 = Task.Factory.StartNew(() => PullTransactions(18));
-            Task task19 = Task.Factory.StartNew(() => PullTransactions(19));
-            Task task20 = Task.Factory.StartNew(() => PullTransactions(20));
-            Task task21 = Task.Factory.StartNew(() => PullTransactions(21));
-            Task task22 = Task.Factory.StartNew(() => PullTransactions(22));
-            Task task23 = Task.Factory.StartNew(() => PullTransactions(23));
-            Task task24 = Task.Factory.StartNew(() => PullTransactions(24));
-            Task task25 = Task.Factory.StartNew(() => PullTransactions(25));
-            Task task26 = Task.Factory.StartNew(() => PullTransactions(26));
-            Task task27 = Task.Factory.StartNew(() => PullTransactions(27));
-            Task task28 = Task.Factory.StartNew(() => PullTransactions(28));
-            Task task29 = Task.Factory.StartNew(() => PullTransactions(29));
-            Task task30 = Task.Factory.StartNew(() => PullTransactions(30));
-            Task task31 = Task.Factory.StartNew(() => PullTransactions(31));
-            Task task32 = Task.Factory.StartNew(() => PullTransactions(32));
-            Task task33 = Task.Factory.StartNew(() => PullTransactions(33));
-            Task task34 = Task.Factory.StartNew(() => PullTransactions(34));
-            Task task35 = Task.Factory.StartNew(() => PullTransactions(35));
-            Task task36 = Task.Factory.StartNew(() => PullTransactions(36));
-            Task task37 = Task.Factory.StartNew(() => PullTransactions(37));
-            Task task38 = Task.Factory.StartNew(() => PullTransactions(38));
-            Task task39 = Task.Factory.StartNew(() => PullTransactions(39));
-            Task task40 = Task.Factory.StartNew(() => PullTransactions(40));
-            Task task41 = Task.Factory.StartNew(() => PullTransactions(41));
-            Task task42 = Task.Factory.StartNew(() => PullTransactions(42));
-            Task task43 = Task.Factory.StartNew(() => PullTransactions(43));
-            Task task44 = Task.Factory.StartNew(() => PullTransactions(44));
-            Task task45 = Task.Factory.StartNew(() => PullTransactions(45));
-            Task task46 = Task.Factory.StartNew(() => PullTransactions(46));
-            Task task47 = Task.Factory.StartNew(() => PullTransactions(47));
-            Task task48 = Task.Factory.StartNew(() => PullTransactions(48));
-            Task task49 = Task.Factory.StartNew(() => PullTransactions(49));
-            Task task50 = Task.Factory.StartNew(() => PullTransactions(50));
-            Task task51 = Task.Factory.StartNew(() => PullTransactions(51));
-            Task task52 = Task.Factory.StartNew(() => PullTransactions(52));
-            Task task53 = Task.Factory.StartNew(() => PullTransactions(53));
-            Task task54 = Task.Factory.StartNew(() => PullTransactions(54));
-            Task task55 = Task.Factory.StartNew(() => PullTransactions(55));
-            Task task56 = Task.Factory.StartNew(() => PullTransactions(56));
-            Task task57 = Task.Factory.StartNew(() => PullTransactions(57));
-            Task task58 = Task.Factory.StartNew(() => PullTransactions(58));
-            Task task59 = Task.Factory.StartNew(() => PullTransactions(59));
-            Task task60 = Task.Factory.StartNew(() => PullTransactions(60));
-            Task task61 = Task.Factory.StartNew(() => PullTransactions(61));
-            Task task62 = Task.Factory.StartNew(() => PullTransactions(62));
-            Task task63 = Task.Factory.StartNew(() => PullTransactions(63));
-            Task task64 = Task.Factory.StartNew(() => PullTransactions(64));
-            Task task65 = Task.Factory.StartNew(() => PullTransactions(65));
-            Task task66 = Task.Factory.StartNew(() => PullTransactions(66));
-            Task task67 = Task.Factory.StartNew(() => PullTransactions(67));
-            Task task68 = Task.Factory.StartNew(() => PullTransactions(68));
-            Task task69 = Task.Factory.StartNew(() => PullTransactions(69));
-            Task task70 = Task.Factory.StartNew(() => PullTransactions(70));
-            Task task71 = Task.Factory.StartNew(() => PullTransactions(71));
-            Task task72 = Task.Factory.StartNew(() => PullTransactions(72));
-            Task task73 = Task.Factory.StartNew(() => PullTransactions(73));
-            Task task74 = Task.Factory.StartNew(() => PullTransactions(74));
-            Task task75 = Task.Factory.StartNew(() => PullTransactions(75));
-            Task task76 = Task.Factory.StartNew(() => PullTransactions(76));
-            Task task77 = Task.Factory.StartNew(() => PullTransactions(77));
-            Task task78 = Task.Factory.StartNew(() => PullTransactions(78));
-            Task task79 = Task.Factory.StartNew(() => PullTransactions(79));
-            Task task80 = Task.Factory.StartNew(() => PullTransactions(80));
-            Task task81 = Task.Factory.StartNew(() => PullTransactions(81));
-            Task task82 = Task.Factory.StartNew(() => PullTransactions(82));
-            Task task83 = Task.Factory.StartNew(() => PullTransactions(83));
-            Task task84 = Task.Factory.StartNew(() => PullTransactions(84));
-            Task task85 = Task.Factory.StartNew(() => PullTransactions(85));
-            Task task86 = Task.Factory.StartNew(() => PullTransactions(86));
-            Task task87 = Task.Factory.StartNew(() => PullTransactions(87));
-            Task task88 = Task.Factory.StartNew(() => PullTransactions(88));
-            Task task89 = Task.Factory.StartNew(() => PullTransactions(89));
-            Task task90 = Task.Factory.StartNew(() => PullTransactions(90));
-            Task task91 = Task.Factory.StartNew(() => PullTransactions(91));
-            Task task92 = Task.Factory.StartNew(() => PullTransactions(92));
-            Task task93 = Task.Factory.StartNew(() => PullTransactions(93));
-            Task task94 = Task.Factory.StartNew(() => PullTransactions(94));
-            Task task95 = Task.Factory.StartNew(() => PullTransactions(95));
-            Task task96 = Task.Factory.StartNew(() => PullTransactions(96));
-            Task task97 = Task.Factory.StartNew(() => PullTransactions(97));
-            Task task98 = Task.Factory.StartNew(() => PullTransactions(98));
-            Task task99 = Task.Factory.StartNew(() => PullTransactions(99));
-            Task task100 = Task.Factory.StartNew(() => PullTransactions(100));
+            var taskCount = Convert.ToInt16(ConfigurationManager.AppSettings["taskCount"]);
+            var tasks = new Task[taskCount]; for (var i = 0; i < taskCount; i++) { tasks[i] = Task.Factory.StartNew(() => PullTransactions(i)); }
+            Task.WaitAll(tasks);
+
+            //Task task1 = Task.Factory.StartNew(() => PullTransactions(1));
+            //Task task2 = Task.Factory.StartNew(() => PullTransactions(2));
+            //Task task3 = Task.Factory.StartNew(() => PullTransactions(3));
+            //Task task4 = Task.Factory.StartNew(() => PullTransactions(4));
+            //Task task5 = Task.Factory.StartNew(() => PullTransactions(5));
+            //Task task6 = Task.Factory.StartNew(() => PullTransactions(6));
+            //Task task7 = Task.Factory.StartNew(() => PullTransactions(7));
+            //Task task8 = Task.Factory.StartNew(() => PullTransactions(8));
+            //Task task9 = Task.Factory.StartNew(() => PullTransactions(9));
+            //Task task10 = Task.Factory.StartNew(() => PullTransactions(10));
+            //Task task11 = Task.Factory.StartNew(() => PullTransactions(11));
+            //Task task12 = Task.Factory.StartNew(() => PullTransactions(12));
+            //Task task13 = Task.Factory.StartNew(() => PullTransactions(13));
+            //Task task14 = Task.Factory.StartNew(() => PullTransactions(14));
+            //Task task15 = Task.Factory.StartNew(() => PullTransactions(15));
+            //Task task16 = Task.Factory.StartNew(() => PullTransactions(16));
+            //Task task17 = Task.Factory.StartNew(() => PullTransactions(17));
+            //Task task18 = Task.Factory.StartNew(() => PullTransactions(18));
+            //Task task19 = Task.Factory.StartNew(() => PullTransactions(19));
+            //Task task20 = Task.Factory.StartNew(() => PullTransactions(20));
+            //Task task21 = Task.Factory.StartNew(() => PullTransactions(21));
+            //Task task22 = Task.Factory.StartNew(() => PullTransactions(22));
+            //Task task23 = Task.Factory.StartNew(() => PullTransactions(23));
+            //Task task24 = Task.Factory.StartNew(() => PullTransactions(24));
+            //Task task25 = Task.Factory.StartNew(() => PullTransactions(25));
+            //Task task26 = Task.Factory.StartNew(() => PullTransactions(26));
+            //Task task27 = Task.Factory.StartNew(() => PullTransactions(27));
+            //Task task28 = Task.Factory.StartNew(() => PullTransactions(28));
+            //Task task29 = Task.Factory.StartNew(() => PullTransactions(29));
+            //Task task30 = Task.Factory.StartNew(() => PullTransactions(30));
+            //Task task31 = Task.Factory.StartNew(() => PullTransactions(31));
+            //Task task32 = Task.Factory.StartNew(() => PullTransactions(32));
+            //Task task33 = Task.Factory.StartNew(() => PullTransactions(33));
+            //Task task34 = Task.Factory.StartNew(() => PullTransactions(34));
+            //Task task35 = Task.Factory.StartNew(() => PullTransactions(35));
+            //Task task36 = Task.Factory.StartNew(() => PullTransactions(36));
+            //Task task37 = Task.Factory.StartNew(() => PullTransactions(37));
+            //Task task38 = Task.Factory.StartNew(() => PullTransactions(38));
+            //Task task39 = Task.Factory.StartNew(() => PullTransactions(39));
+            //Task task40 = Task.Factory.StartNew(() => PullTransactions(40));
+            //Task task41 = Task.Factory.StartNew(() => PullTransactions(41));
+            //Task task42 = Task.Factory.StartNew(() => PullTransactions(42));
+            //Task task43 = Task.Factory.StartNew(() => PullTransactions(43));
+            //Task task44 = Task.Factory.StartNew(() => PullTransactions(44));
+            //Task task45 = Task.Factory.StartNew(() => PullTransactions(45));
+            //Task task46 = Task.Factory.StartNew(() => PullTransactions(46));
+            //Task task47 = Task.Factory.StartNew(() => PullTransactions(47));
+            //Task task48 = Task.Factory.StartNew(() => PullTransactions(48));
+            //Task task49 = Task.Factory.StartNew(() => PullTransactions(49));
+            //Task task50 = Task.Factory.StartNew(() => PullTransactions(50));
+            //Task task51 = Task.Factory.StartNew(() => PullTransactions(51));
+            //Task task52 = Task.Factory.StartNew(() => PullTransactions(52));
+            //Task task53 = Task.Factory.StartNew(() => PullTransactions(53));
+            //Task task54 = Task.Factory.StartNew(() => PullTransactions(54));
+            //Task task55 = Task.Factory.StartNew(() => PullTransactions(55));
+            //Task task56 = Task.Factory.StartNew(() => PullTransactions(56));
+            //Task task57 = Task.Factory.StartNew(() => PullTransactions(57));
+            //Task task58 = Task.Factory.StartNew(() => PullTransactions(58));
+            //Task task59 = Task.Factory.StartNew(() => PullTransactions(59));
+            //Task task60 = Task.Factory.StartNew(() => PullTransactions(60));
+            //Task task61 = Task.Factory.StartNew(() => PullTransactions(61));
+            //Task task62 = Task.Factory.StartNew(() => PullTransactions(62));
+            //Task task63 = Task.Factory.StartNew(() => PullTransactions(63));
+            //Task task64 = Task.Factory.StartNew(() => PullTransactions(64));
+            //Task task65 = Task.Factory.StartNew(() => PullTransactions(65));
+            //Task task66 = Task.Factory.StartNew(() => PullTransactions(66));
+            //Task task67 = Task.Factory.StartNew(() => PullTransactions(67));
+            //Task task68 = Task.Factory.StartNew(() => PullTransactions(68));
+            //Task task69 = Task.Factory.StartNew(() => PullTransactions(69));
+            //Task task70 = Task.Factory.StartNew(() => PullTransactions(70));
+            //Task task71 = Task.Factory.StartNew(() => PullTransactions(71));
+            //Task task72 = Task.Factory.StartNew(() => PullTransactions(72));
+            //Task task73 = Task.Factory.StartNew(() => PullTransactions(73));
+            //Task task74 = Task.Factory.StartNew(() => PullTransactions(74));
+            //Task task75 = Task.Factory.StartNew(() => PullTransactions(75));
+            //Task task76 = Task.Factory.StartNew(() => PullTransactions(76));
+            //Task task77 = Task.Factory.StartNew(() => PullTransactions(77));
+            //Task task78 = Task.Factory.StartNew(() => PullTransactions(78));
+            //Task task79 = Task.Factory.StartNew(() => PullTransactions(79));
+            //Task task80 = Task.Factory.StartNew(() => PullTransactions(80));
+            //Task task81 = Task.Factory.StartNew(() => PullTransactions(81));
+            //Task task82 = Task.Factory.StartNew(() => PullTransactions(82));
+            //Task task83 = Task.Factory.StartNew(() => PullTransactions(83));
+            //Task task84 = Task.Factory.StartNew(() => PullTransactions(84));
+            //Task task85 = Task.Factory.StartNew(() => PullTransactions(85));
+            //Task task86 = Task.Factory.StartNew(() => PullTransactions(86));
+            //Task task87 = Task.Factory.StartNew(() => PullTransactions(87));
+            //Task task88 = Task.Factory.StartNew(() => PullTransactions(88));
+            //Task task89 = Task.Factory.StartNew(() => PullTransactions(89));
+            //Task task90 = Task.Factory.StartNew(() => PullTransactions(90));
+            //Task task91 = Task.Factory.StartNew(() => PullTransactions(91));
+            //Task task92 = Task.Factory.StartNew(() => PullTransactions(92));
+            //Task task93 = Task.Factory.StartNew(() => PullTransactions(93));
+            //Task task94 = Task.Factory.StartNew(() => PullTransactions(94));
+            //Task task95 = Task.Factory.StartNew(() => PullTransactions(95));
+            //Task task96 = Task.Factory.StartNew(() => PullTransactions(96));
+            //Task task97 = Task.Factory.StartNew(() => PullTransactions(97));
+            //Task task98 = Task.Factory.StartNew(() => PullTransactions(98));
+            //Task task99 = Task.Factory.StartNew(() => PullTransactions(99));
+            //Task task100 = Task.Factory.StartNew(() => PullTransactions(100));
 
 
-            //Task.WaitAll(task1, task2, task3, task4, task5, task6, task7, task8, task9, task10);
+            ////Task.WaitAll(task1, task2, task3, task4, task5, task6, task7, task8, task9, task10);
 
-            Task.WaitAll(task1, task2, task3, task4, task5, task6, task7, task8, task9, task10,
-                task11, task12, task13, task14, task15, task16, task17, task18, task19, task20,
-                task21, task22, task23, task24, task25, task26, task27, task28, task29, task30,
-                task31, task32, task33, task34, task35, task36, task37, task38, task39, task40,
-                task41, task42, task43, task44, task45, task46, task47, task48, task49, task50,
-                task51, task52, task53, task54, task55, task56, task57, task58, task59, task60,
-                task61, task62, task63, task64, task65, task66, task67, task68, task69, task70,
-                task71, task72, task73, task74, task75, task76, task77, task78, task79, task80,
-                task81, task82, task83, task84, task85, task86, task87, task88, task89, task90,
-                task91, task92, task93, task94, task95, task96, task97, task98, task99, task100);
+            //Task.WaitAll(task1, task2, task3, task4, task5, task6, task7, task8, task9, task10,
+            //    task11, task12, task13, task14, task15, task16, task17, task18, task19, task20,
+            //    task21, task22, task23, task24, task25, task26, task27, task28, task29, task30,
+            //    task31, task32, task33, task34, task35, task36, task37, task38, task39, task40,
+            //    task41, task42, task43, task44, task45, task46, task47, task48, task49, task50,
+            //    task51, task52, task53, task54, task55, task56, task57, task58, task59, task60,
+            //    task61, task62, task63, task64, task65, task66, task67, task68, task69, task70,
+            //    task71, task72, task73, task74, task75, task76, task77, task78, task79, task80,
+            //    task81, task82, task83, task84, task85, task86, task87, task88, task89, task90,
+            //    task91, task92, task93, task94, task95, task96, task97, task98, task99, task100);
         }
         public static void LogFileWrite(string message,int threadId)
         {
