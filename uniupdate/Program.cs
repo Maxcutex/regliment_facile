@@ -16,7 +16,12 @@ namespace uniupdate
         static void Main(string[] args)
         {
             var taskCount = Convert.ToInt16(ConfigurationManager.AppSettings["taskCount"]);
-            var tasks = new Task[taskCount]; for (var i = 0; i < taskCount; i++) { tasks[i] = Task.Factory.StartNew(() => PullTransactions(i)); }
+            var tasks = new Task[taskCount];
+            for (var i = 0; i < taskCount; i++)
+            {
+                tasks[i] = Task.Factory.StartNew(() => PullTransactions(i));
+                Console.WriteLine("this is task initiated for " + i);
+            }
             Task.WaitAll(tasks);
 
             //Task task1 = Task.Factory.StartNew(() => PullTransactions(1));
@@ -133,6 +138,7 @@ namespace uniupdate
             //    task71, task72, task73, task74, task75, task76, task77, task78, task79, task80,
             //    task81, task82, task83, task84, task85, task86, task87, task88, task89, task90,
             //    task91, task92, task93, task94, task95, task96, task97, task98, task99, task100);
+            Console.ReadLine();
         }
         public static void LogFileWrite(string message,int threadId)
         {
@@ -174,32 +180,34 @@ namespace uniupdate
         {
             try
             {
+                Console.WriteLine("this is thread Id " + threadId);
+                Console.WriteLine("====================== ");
                 var dt = TranAccess.PullPendingTran(threadId);
                 foreach (DataRow dr in dt.Rows)
                 {
                     var stanVal = "";
                     var stanDate = new DateTime();
-                     
-                        //stanVal = DateTime.Now.ToString("yyMMddHH") + DateTime.Now.ToString("mmss");
+
+                    //stanVal = DateTime.Now.ToString("yyMMddHH") + DateTime.Now.ToString("mmss");
                     stanVal = MyHelperClass.GenerateRandomString(4) + DateTime.Now.ToString("ddHHmmss");
 
 
                     if (String.IsNullOrEmpty(dr["value_date"].ToString()))
-                        {
-                            stanDate = DateTime.Now;
-                        }
-                        else
-                        {
-                            stanDate = Convert.ToDateTime(dr["value_date"].ToString());
-                        }
-                   // MyHelperClass.WriteLog(stanVal + " for " + dr["refId"].ToString() + "== ");
+                    {
+                        stanDate = DateTime.Now;
+                    }
+                    else
+                    {
+                        stanDate = Convert.ToDateTime(dr["value_date"].ToString());
+                    }
+                    //MyHelperClass.WriteLog(stanVal + " for " + dr["refId"].ToString() + "== ");
                     LogFileWrite(stanVal + " for " + dr["refId"].ToString() + "== ", threadId);
                     var up = TranAccess.UpdateStan(Convert.ToInt64(dr["refId"].ToString()), stanVal, stanDate);
                     // post to service
                     var identifier = dr["transaction_type"].ToString();
                     if (identifier == null || identifier == "")
                     {
-                       identifier =  identifier.Substring(0, 3);
+                        identifier = identifier.Substring(0, 3);
                     }
                     var debitAccount = dr["debit_account_number"].ToString();
                     var creditAccount = dr["credit_account_number"].ToString();
@@ -210,11 +218,11 @@ namespace uniupdate
                     var transactionParticular = dr["transaction_particular1"].ToString();
                     var originalRefNum = dr["original_ref_num"].ToString();
 
-                    var res = PostTransaction(debitAccount, creditAccount, currency,transactionAmount, stanDate, stanVal, tranParticular2, transactionRefernce, transactionParticular, identifier,threadId, originalRefNum);
-                    var result = res.Split('|');                     
-                    var fi = TranAccess.UpdateAfterPost(Convert.ToInt64(dr["refId"].ToString()), "Y",result[1].Replace("::", "").TrimStart('7'),  result[0],result[1]);
+                    var res = PostTransaction(debitAccount, creditAccount, currency, transactionAmount, stanDate, stanVal, tranParticular2, transactionRefernce, transactionParticular, identifier, threadId, originalRefNum);
+                    var result = res.Split('|');
+                    var fi = TranAccess.UpdateAfterPost(Convert.ToInt64(dr["refId"].ToString()), "Y", result[1].Replace("::", "").TrimStart('7'), result[0], result[1]);
                     LogFileWrite(result[0] + "==" + result[1] + "==" + result[2] + "==", threadId);
-                    
+
                 }
             }
             catch (Exception e)
