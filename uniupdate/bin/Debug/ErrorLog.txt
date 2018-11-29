@@ -1,0 +1,213 @@
+0==:S1519494==VLol17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:30 PM---------------------------------------------
+0==:S1519495==I1h117072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:31 PM---------------------------------------------
+0==:S1519496==56Wa17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:31 PM---------------------------------------------
+0==:S1519497==29RP17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:31 PM---------------------------------------------
+0==:S1519498==RjQM17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:31 PM---------------------------------------------
+0==:S1519499==ZtcP17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:32 PM---------------------------------------------
+0==:S1519500==crST17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:32 PM---------------------------------------------
+0==:S1519501==2c4917072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:32 PM---------------------------------------------
+0==:S1519502==ygys17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:33 PM---------------------------------------------
+0==:S1519503==dNZg17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:33 PM---------------------------------------------
+0==:S1519504==CC7u17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:52 PM---------------------------------------------
+0==:S1519505==oAjJ17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:52 PM---------------------------------------------
+0==:S1519506==P6Lb17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:52 PM---------------------------------------------
+0==:S1519507==nJRO17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:52 PM---------------------------------------------
+0==:S1519508==HtVN17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:53 PM---------------------------------------------
+0==:S1519509==4yE417072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:53 PM---------------------------------------------
+0==:S1519510==qBXy17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:53 PM---------------------------------------------
+0==:S1519511==37wI17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:53 PM---------------------------------------------
+0==:S1519512==qSvQ17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:54 PM---------------------------------------------
+0==:S1519513==kqNV17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:37:54 PM---------------------------------------------
+0==:S1519514==yyyO17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:44 PM---------------------------------------------
+0==:S1519515==w3sw17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:44 PM---------------------------------------------
+0==:S1519516==mCl017072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:44 PM---------------------------------------------
+0==:S1519517==Hc7N17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:44 PM---------------------------------------------
+0==:S1519518==6rDa17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:45 PM---------------------------------------------
+0==:S1519519==8HhM17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:45 PM---------------------------------------------
+-1==DuplicateTransmission==TyQd17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:45 PM---------------------------------------------
+0==:S1519520==tP1a17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:45 PM---------------------------------------------
+0==:S1519521==Xq0l17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:45 PM---------------------------------------------
+0==:S1519522==H0m017072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:46 PM---------------------------------------------
+0==:S1519523==EyDo17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:46 PM---------------------------------------------
+0==:S1519524==lSF917072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:46 PM---------------------------------------------
+0==:S1519525==AWSy17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:46 PM---------------------------------------------
+0==:S1519526==YEsn17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:47 PM---------------------------------------------
+0==:S1519527==xBsU17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:47 PM---------------------------------------------
+0==:S1519528==9xcv17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:47 PM---------------------------------------------
+0==:S1519529==Ckkt17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:47 PM---------------------------------------------
+0==:S1519530==FW8E17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:47 PM---------------------------------------------
+0==:S1519531==jsxw17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:48 PM---------------------------------------------
+0==:S1519532==Qpwb17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:48 PM---------------------------------------------
+0==:S1519533==jHcJ17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:48 PM---------------------------------------------
+-1==DuplicateTransmission==64sU17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:48 PM---------------------------------------------
+0==:S1519534==h3Nh17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:49 PM---------------------------------------------
+0==:S1519535==3B1r17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:49 PM---------------------------------------------
+-1==DuplicateTransmission==go0w17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:49 PM---------------------------------------------
+0==:S1519536==rQUX17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:49 PM---------------------------------------------
+0==:S1519537==9nIq17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:49 PM---------------------------------------------
+0==:S1519538==Jhmt17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:50 PM---------------------------------------------
+0==:S1519539==uGIL17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:50 PM---------------------------------------------
+0==:S1519540==mEes17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:50 PM---------------------------------------------
+0==:S1519541==HAbT17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:50 PM---------------------------------------------
+0==:S1519542==Qdj117072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:50 PM---------------------------------------------
+0==:S1519543==QR5t17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:51 PM---------------------------------------------
+0==:S1519544==i65k17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:51 PM---------------------------------------------
+0==:S1519545==XHt317072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:51 PM---------------------------------------------
+0==:S1519546==vUhc17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:51 PM---------------------------------------------
+0==:S1519547==cm4617072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:52 PM---------------------------------------------
+0==:S1519548==1MrU17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:52 PM---------------------------------------------
+0==:S1519549==0Y6y17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:52 PM---------------------------------------------
+0==:S1519550==WYI217072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:52 PM---------------------------------------------
+0==:S1519551==J70G17072116==
+--------------------END OF LOG--------------------21-Jul-2017 04:39:53 PM---------------------------------------------
+170912161811 for 4== 
+--------------------END OF LOG--------------------12-Sep-2017 04:18:16 PM---------------------------------------------
+The process cannot access the file 'C:\Users\HP\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\bin\Debug\ErrorLog.txt' because it is being used by another process.:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Bola.MiscHelper.MyHelperClass.WriteLog(String msg)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\HP\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\Program.cs:line 53
+--------------------END OF LOG--------------------12-Sep-2017 04:18:17 PM--------------------
+The process cannot access the file 'C:\Users\HP\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\bin\Debug\ErrorLog.txt' because it is being used by another process.:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at Bola.MiscHelper.MyHelperClass.WriteLog(String msg)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\HP\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\Program.cs:line 53
+--------------------END OF LOG--------------------12-Sep-2017 04:18:17 PM--------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.:    at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:32:52 AM--------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.:    at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:33:03 AM--------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.:    at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:33:03 AM--------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.:    at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:33:03 AM--------------------
+Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.:    at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:33:03 AM--------------------
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server):    at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at uniupdate.TranAccess.PullPendingTran(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\uniupdate\uniupdate\TranAccess.cs:line 35
+--------------------END OF LOG--------------------13-Oct-2017 08:33:05 AM--------------------
+Index and length must refer to a location within the string.
+Parameter name: length:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\Program.cs:line 141
+--------------------END OF LOG--------------------02-Jan-2018 02:43:16 PM--------------------
+Index and length must refer to a location within the string.
+Parameter name: length:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\Program.cs:line 141
+--------------------END OF LOG--------------------02-Jan-2018 02:45:28 PM--------------------
+Index and length must refer to a location within the string.
+Parameter name: length:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\Program.cs:line 141
+--------------------END OF LOG--------------------02-Jan-2018 02:46:42 PM--------------------
+Index and length must refer to a location within the string.
+Parameter name: length:    at System.String.Substring(Int32 startIndex, Int32 length)
+   at uniupdate.Program.PullTransactions(Int32 threadId) in C:\Users\ini-obong.udoh\Documents\Visual Studio 2017\Projects\regliment_facile\uniupdate\Program.cs:line 141
+--------------------END OF LOG--------------------02-Jan-2018 02:48:33 PM--------------------
